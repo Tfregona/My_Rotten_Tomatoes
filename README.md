@@ -17,6 +17,8 @@ npm run dev
 ### Home page
 
 Display popular movies of the moment
+<br>
+Search with a query or by genres
 
 <p align="center">
   <img src=".github/mrt_homepage.jpg" width="90%;" />
@@ -40,7 +42,7 @@ Access to the admin page when the user own this role
 
 ### Admin CRUD
 
-Create, read, update and delete a user or a comment
+Create, read, update and delete users or comments
 
 <p align="center">
   <img src=".github/mrt_admin_pannel.jpg" width="90%;" />
@@ -63,6 +65,8 @@ Possibility to comment when the user is logged
 <p align="center">
   <img src=".github/mrt_movieshow.jpg" width="90%;" />
 </p>
+
+## Authors
 
 - [DIOP Doudou](https://github.com/Douzdiop)
 - [FREGONA Tristan](https://github.com/Tfregona)
