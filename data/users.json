@@ -1,0 +1,24 @@
+[
+    {
+        "firstName": "Jeremie",
+        "lastName": "Garod",
+        "username": "JG",
+        "email": "admin@admin.fr",
+        "hash": "$2a$10$XbbTmRA0WXYgvp15oaj/eu2m7Y9PEv4uYam36MYS5IkHBJCV2Np7K",
+        "id": 3,
+        "dateCreated": "2022-01-12T14:01:20.911Z",
+        "dateUpdated": "2022-01-12T14:01:20.911Z",
+        "role": "user"
+    },
+    {
+        "firstName": "Tristan",
+        "lastName": "Fregona",
+        "username": "Sminorv",
+        "email": "Fregona.tristan@yahoo.com",
+        "hash": "$2a$10$sJWbKCNQqBIIUwFCfjjyTusX/vuDky.7DRXoww61FNirDias0k/Qa",
+        "id": 4,
+        "role": "admin",
+        "dateCreated": "2022-02-28T13:05:30.467Z",
+        "dateUpdated": "2022-02-28T13:05:30.467Z"
+    }
+]

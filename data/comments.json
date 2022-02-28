@@ -1,0 +1,18 @@
+[
+    {
+        "content": "Super film",
+        "movie_id": 568124,
+        "user_id": 4,
+        "id": 1,
+        "dateCreated": "2022-02-28T13:13:57.795Z",
+        "dateUpdated": "2022-02-28T13:13:57.795Z"
+    },
+    {
+        "content": "Very cool",
+        "movie_id": 476669,
+        "user_id": 4,
+        "id": 2,
+        "dateCreated": "2022-02-28T13:14:46.513Z",
+        "dateUpdated": "2022-02-28T13:14:46.513Z"
+    }
+]
